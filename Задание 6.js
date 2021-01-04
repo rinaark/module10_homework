@@ -9,8 +9,9 @@ if (newArray.length > 1){
 		}
 	}
 }
-	if (newArray.length <= 1){
-	console.log(flag);}
-	else {
-	console.log(flag);
-	};
+// Условный оператор в данном случае не имеет смысла, потому что в обоих случаях совершается одно и то же действие
+// if (newArray.length <= 1){
+console.log(flag);//}
+// else {
+// console.log(flag);
+// };
